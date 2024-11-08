@@ -1,0 +1,1 @@
+/usr/bin/c89-gcc -g CMakeFiles/Operation.dir/operation.c.o -o Operation 

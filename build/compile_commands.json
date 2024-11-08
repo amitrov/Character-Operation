@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/abstract/projects/tutorial2/build",
+  "command": "/usr/bin/c89-gcc   -g -o CMakeFiles/Operation.dir/operation.c.o -c /home/abstract/projects/tutorial2/operation.c",
+  "file": "/home/abstract/projects/tutorial2/operation.c",
+  "output": "CMakeFiles/Operation.dir/operation.c.o"
+}
+]
